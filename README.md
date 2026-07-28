@@ -190,11 +190,10 @@ Based on the analysis, HR teams can consider:
 ```text
 Adecco-HR-Analytics/
 │
-├── README.md
-├── Adecco_HR_Analytics.xlsx
+├── Photos_Adecco
+├── Adecco_HR_Analytics_05.xlsx
 │
-└── Documentation/
-    └── Adecco_HR_Analytics_Project.docx
+└── README.md
 ```
 
 ---

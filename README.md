@@ -1,6 +1,6 @@
-# 📊 Adecco HR Analytics – Employee Attrition Analysis
+# Adecco HR Analytics – Employee Attrition Analysis
 
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on **HR Analytics and Employee Attrition Analysis** at Adecco India.
 
@@ -10,7 +10,7 @@ The objective of this project is to use **Excel-based data analysis** to identif
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Adecco India wants to understand:
 
@@ -24,7 +24,7 @@ The analysis can help HR and management make **data-driven decisions** to improv
 
 ---
 
-## 🏢 Stakeholders
+## Stakeholders
 
 ### Internal Stakeholders
 
@@ -42,7 +42,7 @@ The analysis can help HR and management make **data-driven decisions** to improv
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 The dataset contains employee-level HR information covering areas such as:
 
@@ -98,7 +98,7 @@ The project uses these variables to investigate the factors that may contribute 
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 * **Microsoft Excel**
 * Excel formulas
@@ -111,25 +111,11 @@ The project uses these variables to investigate the factors that may contribute 
 
 ---
 
-## 📊 Analysis Performed
+## Analysis Performed
 
 The project investigates several important HR questions, including:
 
-### Basic Analysis
-
-1. Overall employee attrition rate
-2. Department with the highest attrition rate
-3. Average age of employees who left
-4. Job satisfaction across different job roles
-5. Attrition differences between male and female employees
-6. Average monthly income of employees who left
-7. Relationship between distance from home and attrition
-8. Distribution of employee performance ratings
-9. Number of employees working overtime
-10. Average years employees have worked at Adecco
----
-
-## 📈 Key HR Metrics
+## Key HR Metrics
 
 The analysis focuses on important HR metrics such as:
 
@@ -155,7 +141,7 @@ Average length of time employees have worked at the company.
 
 ---
 
-## 🔍 Key Objectives
+## Key Objectives
 
 The main objectives of this project are to:
 
@@ -170,7 +156,7 @@ The main objectives of this project are to:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 Based on the analysis, HR teams can consider:
 
@@ -185,7 +171,7 @@ Based on the analysis, HR teams can consider:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Adecco-HR-Analytics/
@@ -198,7 +184,7 @@ Adecco-HR-Analytics/
 
 ---
 
-## 🎓 Skills Demonstrated
+## Skills Demonstrated
 
 This project demonstrates my ability to:
 
@@ -215,7 +201,7 @@ This project demonstrates my ability to:
 
 ---
 
-## 📌 Conclusion
+## Conclusion
 
 This **Adecco HR Analytics project** demonstrates how Excel can be used to analyse employee data and understand the factors associated with employee attrition.
 
@@ -223,7 +209,7 @@ The analysis can help HR and senior management identify areas that require atten
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Nibha Kumari**
 
